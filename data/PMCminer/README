@@ -33,14 +33,9 @@ of PLoS One articles downloaded via FTP from the PMC OASS on 29/9/2011.
     interaction id, interaction name, sentence.
     - multispp_interactions_table.csv - table of 0/1 (absence/presence) of multispp-
     interactions of each category for all articles in all corpora
-     - spp_numbers_ambig.csv - the total number of tagged  species per subject corpus
-     and the percentage with ambiguous species tags (i.e. matched > 1 spp)
-     - spp_numbers_unambig.csv - frequencies of all unambiguous species in each
-     subject corpus.
      - spp_per_article.csv - number of unique species tags in each article in each
      subject corpus.
-     - SummaryStats.csv - table of summary statistics for each subject corpus.
-     that have ambiguous species tags.
+     - SummaryStats.csv - Some per subject summary stats
 
 Not included (lots of files/big files):
     - archived PLoS One article files
@@ -48,5 +43,4 @@ Not included (lots of files/big files):
     - species dictionary
     - Linnaeus output files
 
-Let me know if you want access to these files.
 David [dot] springate [at] postgrad [dot] manchester [dot] ac [dot] [uk]

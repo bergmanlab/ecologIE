@@ -1,0 +1,5 @@
+combine catologue of Life dictionaries from 2009 and 2010
+using cat.
+Then run species_dict_x_years_join.py to combine terms matching the same species id
+and remove any redundant matching terms.
+Then run col_dict_stopwords.py to remove stopwords.
