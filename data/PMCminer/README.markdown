@@ -1,33 +1,27 @@
-Data from Springate and Bergman 2012 (forthcoming):
----------------------------------------------------
-An exploration of mining species interaction data from the ecology literature.
+Data from Springate ... & Bergman (2012) An exploration of mining species interaction data from the ecological literature (forthcoming).
 -----------------------------------------------------------------------------
 
 This directory contains:
 
-* *dict-community-ecology-interactions.tsv* - dictionary of ecological interaction terms used to tag articles.
+* *dict-community-ecology-interactions.tsv* - a dictionary of terms describing types of interactions in community ecololgy used to tag articles.
 
 * *DOI\_lists*
-    files containing a list of doi codes downloaded from the PLoS API.
-    They reference all articles in PLoS One for the following subject categories:
-    - ecology
+    Files listing DOIs of articles in PLoS One downloaded using the PLoS API (28/9/2011) for the following subject categories:
+    - Ecology
     - Molecular biology
     - Genomics
     - Biochemistry
-    The lists of dois were downloaded on 28/9/2011
 
 * *analysis*:
-    The output files from a run of ecologIE/PCminer, based on a complete archive of PLoS One articles downloaded via FTP from the PMC OASS on 29/9/2011.
-    includes:
-    - all\_interactions.csv - a flatfile of every putative  ecological interaction termfound by the Linnaeus tagger in all  subject corpora.  Includes subject, article file name, doi, interaction id (from interaction dictionary), interaction term (as found in the article), the sentence in which the term was found.
-    - interactions\_per\_article.csv - Counts of the number of interactions found in all articles
-    in each corpus.
-    - multispecies\_interactions.csv - flatfile of all putative multispecies interactions found in all corpora. Putative multispecies interactions are classified as a tagged ecological interaction term in the same sentence as two different tagged species. Includes subject, article file name, doi, species id (from database), species name, interaction id, interaction name, sentence.
-    - multispp\_interactions\_table.csv - table of 0/1 (absence/presence) of multispp-interactions of each category for all articles in all corpora
-     - spp\_per\_article.csv - number of unique species tags in each article in each
-     subject corpus.
-     - SummaryStats.csv - Some per subject summary stats
+    Output files from a run of ecologIE/PMCminer system based on a complete archive of PLoS One articles downloaded via FTP from the PMC Open Access subset (29/9/2011), including:
+    - all\_interactions.tsv - a tab separated value text file of every putative ecological interaction term found by the Linnaeus tagger in all subject corpora. Columns include subject category, PMC article file name, DOI, interaction type id (from dict-community-ecology-interactions.tsv), interaction term trigger (as found in the article), the sentence in which the interaction term was found.
+    - interactions\_per\_article.tsv - a tab separated value text file of counts of the number of interactions found in all articles in each corpus.
+    - multispecies\_interactions.tsv - a tab separated value text file of all putative multispecies interactions found in all corpora. Putative multispecies interactions are classified as a tagged ecological interaction term in the same sentence as two different tagged species. Includes subject, article file name, doi, species id (from database), species name, interaction id, interaction name, sentence.
+    - multispp\_interactions\_table.tsv - a tab separated value text file of 0/1 (absence/presence) of multispecies interactions for each interaction type for all articles in all corpora.
+    - spp\_per\_article.tsv - a tab separated value text file of the number of unique species tags in each article in each subject corpus.
+    - SummaryStats.tsv - a tab separated value text file of subject category summary statistics.
 
+<<<<<<< HEAD
 Not included (lots of files/big files):
 - archived PLoS One article files
 - corpora of article bodies for each subject
@@ -35,3 +29,14 @@ Not included (lots of files/big files):
 - Linnaeus output files
 
 David dot springate at postgrad dot manchester dot ac dot uk
+=======
+Additional files that are not included here (many files/big files):
+ * Archived PLoS One article files
+ * Corpora of article bodies for each subject
+ * Species dictionary
+ * Linnaeus output files
+	
+Contact: 
+ * david dot springate at postgrad dot manchester dot ac dot uk
+ * casey dot bergman at manchester dot ac dot uk
+>>>>>>> c93d34d172081da7886ea0a80eb601bf0f444661
