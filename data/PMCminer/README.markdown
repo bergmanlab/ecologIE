@@ -28,12 +28,14 @@ Not included (lots of files/big files)
 - species dictionary
 - Linnaeus output files
 
+
 Additional files that are not included here (many files/big files)
 - Archived PLoS One article files
 - Corpora of article bodies for each subject
 - Species dictionary
 - Linnaeus output files
-	
+
+
 Contact 
 - david dot springate at postgrad dot manchester dot ac dot uk
 - casey dot bergman at manchester dot ac dot uk
