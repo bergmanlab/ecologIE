@@ -29,9 +29,9 @@ This directory contains:
      - SummaryStats.csv - Some per subject summary stats
 
 Not included (lots of files/big files):
-    - archived PLoS One article files
-    - corpora of article bodies for each subject
-    - species dictionary
-    - Linnaeus output files
+- archived PLoS One article files
+- corpora of article bodies for each subject
+- species dictionary
+- Linnaeus output files
 
 David dot springate at postgrad dot manchester dot ac dot uk
