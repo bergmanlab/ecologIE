@@ -7,21 +7,20 @@ V.0.1 (22/Feb/2012)
 
 Includes a Python wrapper for the [Linnaeus entity recognition tool](http://linnaeus.sourceforge.net/).
 
-The pmcminer.py file is the main executable to replicate the analyses in **An exploration of mining species interaction data from the ecology literature**, Springate and Bergman 2012 (forthcoming).  
+The pmcminer.py file is the main executable to replicate the analyses in **An exploration of mining species interaction data from the ecology literature**, Springate and Bergman 2012 (forthcoming).
 
-To do this you need:
-* A directory containing the PLoSONE XML archive
-* A set of DOIs from the PLoS API
-* A working copy of Linnaeus
-* Species names dictionary
-* Ecological Interaction terms dictionary
-* Python 2.7 (It may work on earlier versions but is untested)
+#####To do this you need...
+- A directory containing the PLoSONE XML archive
+- A set of DOIs from the PLoS API
+- A working copy of Linnaeus
+- Species names dictionary
+- Ecological Interaction terms dictionary Python 2.7 (It may work on earlier versions but is untested)
 
-The following Python libraries:
-* lxml
-* nltk with punkt tokeniser from nltk.data
-* numpy
-* scipy
+#####...and the following Python libraries:
+- lxml
+- nltk with punkt tokeniser from nltk.data
+- numpy
+- scipy
  
  Running *pmcminer.py*  should find articles matching DOIs,  extract and tokenise article bodies,  match species and interaction terms using Linnaeus, build tables of sentences containing putative multispecies interactions and various other summary tables presented in the paper.
 
