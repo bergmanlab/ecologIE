@@ -14,7 +14,8 @@ The pmcminer.py file is the main executable to replicate the analyses in **An ex
 - A set of DOIs from the PLoS API
 - A working copy of Linnaeus
 - Species names dictionary
-- Ecological Interaction terms dictionary Python 2.7 (It may work on earlier versions but is untested)
+- Ecological Interaction terms dictionary 
+- Python 2.7 (It may work on earlier versions but is untested)
 
 #####...and the following Python libraries:
 - lxml
