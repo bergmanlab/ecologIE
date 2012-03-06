@@ -21,22 +21,20 @@ This directory contains:
     - spp\_per\_article.tsv - a tab separated value text file of the number of unique species tags in each article in each subject corpus.
     - SummaryStats.tsv - a tab separated value text file of subject category summary statistics.
 
-<<<<<<< HEAD
+
 Not included (lots of files/big files):
 - archived PLoS One article files
 - corpora of article bodies for each subject
 - species dictionary
 - Linnaeus output files
 
-David dot springate at postgrad dot manchester dot ac dot uk
-=======
 Additional files that are not included here (many files/big files):
- * Archived PLoS One article files
- * Corpora of article bodies for each subject
- * Species dictionary
- * Linnaeus output files
+* Archived PLoS One article files
+* Corpora of article bodies for each subject
+* Species dictionary
+* Linnaeus output files
 	
 Contact: 
- * david dot springate at postgrad dot manchester dot ac dot uk
- * casey dot bergman at manchester dot ac dot uk
->>>>>>> c93d34d172081da7886ea0a80eb601bf0f444661
+* david dot springate at postgrad dot manchester dot ac dot uk
+* casey dot bergman at manchester dot ac dot uk
+
