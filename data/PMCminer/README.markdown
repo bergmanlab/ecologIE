@@ -22,13 +22,6 @@ This directory contains:
     - SummaryStats.tsv - a tab separated value text file of subject category summary statistics.
 
 
-######Not included (lots of files/big files)
-- archived PLoS One article files
-- corpora of article bodies for each subject
-- species dictionary
-- Linnaeus output files
-
-
 ######Additional files that are not included here (many files/big files)
 - Archived PLoS One article files
 - Corpora of article bodies for each subject
