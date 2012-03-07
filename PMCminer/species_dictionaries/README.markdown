@@ -9,8 +9,8 @@ Various stopwords have been filtered out.
 - 2010 : path
 
 ######to combine and remove stopwords:
-    cat col2009ac\_dict.tsv col2010ac\_dict.tsv > full\_col.tsv
-    species\_dict\_x\_years\_join.py full\_col.tsv
-    col\_dict\_stopwords.py   # ensure the filepaths are correct
+    cat col2009ac_dict.tsv col2010ac_dict.tsv > full_col.tsv
+    species_dict_x_years_join.py full_col.tsv
+    col_dict_stopwords.py   # ensure the filepaths are correct
 
 
