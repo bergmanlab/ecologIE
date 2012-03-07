@@ -1,7 +1,7 @@
 #EDIT THIS LINE, SET TO PATH OF SPECIES PACK (WITHOUT TRAILING SLASH):
 $dir = /home/david/Avidastuff/mining/linnaeus/species
 
-variantMatcher=$dir/full_col_final.tsv
+variantMatcher=$dir/col2009_2010ac_dict_join.tsv
  
 ppStopTerms=$dir/stoplist.tsv
 ppAcrProbs=$dir/synonyms-acronyms.tsv

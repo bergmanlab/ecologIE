@@ -156,7 +156,7 @@ class InteractionStats(SpeciesStats):
 def write_spp_numbers(spp_dict,  pure_path, doi_list, outFile = False):
     if outFile:
         f = open(outFile, "w")
-        f.write("subject\tarticle\tdoi\tin_article\n")
+        f.write("subject\tarticle\ndoi\nin_article\n")
     for subject in doi_list:
         articles = generate_files(os.path.join(pure_path, subject))
         ids = ({"filename": os.path.basename(article)[:-len(".txt")],

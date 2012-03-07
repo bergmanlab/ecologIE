@@ -67,4 +67,23 @@ def build_table(in_file, out_file, pure_path, interaction_db, doi_list):
     sys.stderr.write("Done.\n")
                 
  
+if __name__ == "__main__":
+    DOI_LISTS = {
+        "Ecology": "DOI_lists/subjectEcology",
+        "Molecular": "DOI_lists/subjectMolecular",
+        "Genomics": "DOI_lists/subjectGenomics",
+        "Biochemistry": "DOI_lists/subjectBiochemistry"
+    }
+    
+    build_table(
+            in_file = "/home/david/textmining/PMCdata/analysis/multispecies_interactions.csv",
+            out_file = "/home/david/textmining/PMCdata/analysis/test_table.csv",
+            pure_path = "/home/david/textmining/PMCdata/pure",
+            interaction_db = "/home/david/Avidastuff/mining/linnaeus/interactions/dict-community-ecology-interactions.tsv",
+            doi_list = DOI_LISTS
+                             )
+    in_file = "/home/david/textmining/PMCdata/analysis/multispecies_interactions.csv"
+    out_file = "/home/david/textmining/PMCdata/analysis/test_table.csv"
+    pure_path = "/home/david/textmining/PMCdata/pure"
+    interaction_db = "/home/david/Avidastuff/mining/linnaeus/interactions/dict-community-ecology-interactions.tsv"
              
