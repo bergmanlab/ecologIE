@@ -1,0 +1,17 @@
+ 	Ecology,Genomics,Molecular,Biochemistry
+Articles in PLoS API	2108	5718	3109	4026
+Articles in OASS (%ge in PloS)	2079 (98%)	5662 (99%)	3068 (98%)	3929 (97%)
+Pure article corpus (%ge in OASS)	1691 (81%)	3661 (64%)	1188 (38%)	2372 (60%)
+Articles containing species (%ge in pure)	1634 (96%)	3473 (94%)	1163 (97%)	2289 (96%)
+Articles containing 2+ species (%ge in pure)	1525 (90%)	2664 (72%)	965 (81%)	1903 (80%)
+Articles containing interaction terms (%ge in pure)	1688 (99%)	3646 (99%)	1182 (99%)	2357 (99%)
+Articles containing multispecies interactions (%ge in pure)	643 (38%)	405 (11%)	70 (5%)	169 (7%)
+Total sentences in corpus	324208	813127	289249	566625
+Mean sentences/article (sd)	191 (79)	222 (87)	243 (76)	238 (83)
+Total sentences with interactions in corpus	49607	61838	19975	46096
+Median sentences with interactions/article	21	13	13	15
+Median species/article (25th-; 75th percentile)	7 (3; 11)	3 (1; 5)	3 (2; 4)	3 (2; 5)
+Median interactions/article (25th-; 75th percentile)	7 (5; 8)	5 (3; 6)	5 (4; 6)	5 (4; 6)
+Species richness / articles in corpus	13.8	2.6	2.7	2.2
+Species evenness	0.8	0.66	0.64	0.63
+Shannon diversity index	8.05	6.01	5.21	5.38
