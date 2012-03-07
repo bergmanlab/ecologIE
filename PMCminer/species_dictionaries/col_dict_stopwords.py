@@ -12,7 +12,7 @@ def remove_stopwords(line, stopdict):
 
 stopwords = ("black","white","pink","bung","near", "var", "red", "reds", "blacks", "whites", "pinks",
              "bars", "bar", "x", "clines", "box", "cline", "knife", "knifes", "permit", "permits", "fisher", "e","es", "english common name not availables",
-             "english common name not available","not available", "not availables,"
+             "english common name not available","not available", "not availables", "asp", "pea", "peas",
              "drill", "cock-up", "glass", "million", "millions", "pilot", "roman", "romans", "banana", "bananas", "rocker", "rockers",
              "bleak", "puller", "pullers", "rainbow", "rainbows", "lumpy", "visitor", "visitors", "pop", "split", 
              "splits", "spring", "spot", "spots", "whitney", "john", "moon", "scavenger", "rock", "rubbish", "spanish", "king",
