@@ -2,7 +2,6 @@ subject	species	count
 Biochemistry	Homo sapiens	1809.000000
 Biochemistry	E. coli	658.000000
 Biochemistry	Arrowhead	217.000000
-Biochemistry	codd	175.000000
 Biochemistry	S. cerevisiae	165.000000
 Biochemistry	red jews	160.000000
 Biochemistry	Butter breams	159.000000
@@ -521,6 +520,7 @@ Biochemistry	cotton-top tamarin	1.000000
 Biochemistry	common Bamboo Viper	1.000000
 Biochemistry	chinese Green Tree Viper, Stejneger�s Bamboo pitviper; chenbihuii	1.000000
 Biochemistry	chilean shrew opossum	1.000000
+Biochemistry	charcoal moras	1.000000
 Biochemistry	carrelet	1.000000
 Biochemistry	caracals	1.000000
 Biochemistry	brown stingrays	1.000000
@@ -1252,7 +1252,6 @@ Biochemistry	A. aestivalis	1.000000
 Biochemistry	A. acidocaldarius	1.000000
 Genomics	Homo sapiens	2852.000000
 Genomics	E. coli	437.000000
-Genomics	codd	295.000000
 Genomics	Arrowhead	283.000000
 Genomics	D. melanogaster	207.000000
 Genomics	Sharks	204.000000
@@ -1518,7 +1517,7 @@ Genomics	B. melitensis	6.000000
 Genomics	A. lyrata	6.000000
 Genomics	striper bass	5.000000
 Genomics	small-eared galago	5.000000
-Genomics	million fish	5.000000
+Genomics	rainbowfish	5.000000
 Genomics	malayan	5.000000
 Genomics	freshwater blackfish	5.000000
 Genomics	White-tufted-ear marmoset	5.000000
@@ -3363,7 +3362,6 @@ Molecular	Arrowhead	136.000000
 Molecular	D. americana	92.000000
 Molecular	horses	74.000000
 Molecular	S. cerevisiae	71.000000
-Molecular	codd	70.000000
 Molecular	Butter breams	53.000000
 Molecular	Common sole	52.000000
 Molecular	texas cichlids	49.000000
@@ -3460,7 +3458,7 @@ Molecular	C. neoformans	4.000000
 Molecular	B. melitensis	4.000000
 Molecular	Aequorea victoria	4.000000
 Molecular	spotted lampreys	3.000000
-Molecular	million fish	3.000000
+Molecular	rainbowfish	3.000000
 Molecular	large-spotted dogfish	3.000000
 Molecular	amber	3.000000
 Molecular	Yersinia pestis	3.000000
@@ -4191,7 +4189,6 @@ Molecular	A. anophagefferens	1.000000
 Molecular	A. anguilla	1.000000
 Molecular	A. albopictus	1.000000
 Ecology	Homo sapiens	792.000000
-Ecology	codd	480.000000
 Ecology	Grass pickerel	131.000000
 Ecology	goldfishs	93.000000
 Ecology	Ship Sturgeon	72.000000
@@ -4225,7 +4222,7 @@ Ecology	Common sole	25.000000
 Ecology	Boraras maculatus	25.000000
 Ecology	pumpkinseed sunfishs	23.000000
 Ecology	Butter breams	22.000000
-Ecology	million fish	21.000000
+Ecology	rainbowfish	21.000000
 Ecology	Panthera pardus	21.000000
 Ecology	D. americana	21.000000
 Ecology	silverstripe halfbeak	20.000000
@@ -4990,6 +4987,7 @@ Ecology	dusky perchs	2.000000
 Ecology	doctor fishs	2.000000
 Ecology	common Quails	2.000000
 Ecology	climbing spindleberrys	2.000000
+Ecology	charcoal moras	2.000000
 Ecology	ceps	2.000000
 Ecology	central American tapir	2.000000
 Ecology	campbells monkey	2.000000

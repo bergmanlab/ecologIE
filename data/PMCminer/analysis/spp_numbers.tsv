@@ -2,7 +2,6 @@ subject	species	count
 Biochemistry	Homo sapiens	1809.333333
 Biochemistry	E. coli	658.000000
 Biochemistry	Arrowhead	217.000000
-Biochemistry	codd	176.530303
 Biochemistry	S. cerevisiae	165.000000
 Biochemistry	red jews	160.000000
 Biochemistry	Butter breams	159.000000
@@ -358,13 +357,13 @@ Biochemistry	white scales	2.500000
 Biochemistry	southern sand flatheads	2.500000
 Biochemistry	Halobacterium salinarum	2.500000
 Biochemistry	Giant sandsharks	2.500000
+Biochemistry	Black kings	2.366667
 Biochemistry	Aspergillus terreus	2.250000
 Biochemistry	Debaryomyces hansenii	2.142857
 Biochemistry	Streptomyces plicatus	2.125000
 Biochemistry	Streptococcus mitis	2.111111
 Biochemistry	Banded Krait	2.076923
 Biochemistry	Prochlorococcus marinus	2.071429
-Biochemistry	Black kings	2.030303
 Biochemistry	Citrus sinensis	2.017699
 Biochemistry	Grey mannocks	2.013514
 Biochemistry	spotted scat	2.000000
@@ -561,6 +560,7 @@ Biochemistry	Astyanax alburnus	1.392857
 Biochemistry	Astyanax abramis	1.392857
 Biochemistry	A. taeniatus	1.392857
 Biochemistry	A. platensis	1.392857
+Biochemistry	norwegian silver herrings	1.373333
 Biochemistry	blacktails	1.333333
 Biochemistry	zona	1.333333
 Biochemistry	Nephila edulis	1.333333
@@ -590,7 +590,6 @@ Biochemistry	spotted lampreys	1.071429
 Biochemistry	T. adspersus	1.071429
 Biochemistry	sandgapers	1.052632
 Biochemistry	Redear herrings	1.052632
-Biochemistry	norwegian silver herrings	1.040000
 Biochemistry	Grouper	1.024390
 Biochemistry	Pacific ocean perchs	1.013514
 Biochemistry	Citrus grandis	1.006849
@@ -652,6 +651,7 @@ Biochemistry	common Bamboo Viper	1.000000
 Biochemistry	clams	1.000000
 Biochemistry	chinese Green Tree Viper, Stejneger�s Bamboo pitviper; chenbihuii	1.000000
 Biochemistry	chilean shrew opossum	1.000000
+Biochemistry	charcoal moras	1.000000
 Biochemistry	caracals	1.000000
 Biochemistry	brown stingrays	1.000000
 Biochemistry	broad wood cockroachs	1.000000
@@ -1391,6 +1391,13 @@ Biochemistry	Barygnathella subtilis	0.750000
 Biochemistry	B. subtilis	0.750000
 Biochemistry	hake	0.725490
 Biochemistry	madagascar meagre	0.708333
+Biochemistry	cod	0.700000
+Biochemistry	bearded cod	0.700000
+Biochemistry	arctic cods	0.700000
+Biochemistry	Toothed cod	0.700000
+Biochemistry	Pondes	0.700000
+Biochemistry	Alaska cod	0.700000
+Biochemistry	A. glacialis	0.700000
 Biochemistry	Rock ling	0.666667
 Biochemistry	M. dypterygia	0.666667
 Biochemistry	European ling	0.666667
@@ -1461,7 +1468,6 @@ Biochemistry	largescaled spinycheek sleepers	0.500000
 Biochemistry	harlequin	0.500000
 Biochemistry	fanrays	0.500000
 Biochemistry	churchill	0.500000
-Biochemistry	charcoal moras	0.500000
 Biochemistry	Yellowtail snapper	0.500000
 Biochemistry	White sharks	0.500000
 Biochemistry	White margate	0.500000
@@ -1592,13 +1598,6 @@ Biochemistry	S. ocellatus	0.375000
 Biochemistry	Longtoothed salmons	0.375000
 Biochemistry	Jackknife fish	0.375000
 Biochemistry	Croakers	0.375000
-Biochemistry	cod	0.363636
-Biochemistry	bearded cod	0.363636
-Biochemistry	arctic cods	0.363636
-Biochemistry	Toothed cod	0.363636
-Biochemistry	Pondes	0.363636
-Biochemistry	Alaska cod	0.363636
-Biochemistry	A. glacialis	0.363636
 Biochemistry	S. constellatus	0.346847
 Biochemistry	masked Bowerbird	0.344828
 Biochemistry	golden pebblesnails	0.344828
@@ -1627,7 +1626,7 @@ Biochemistry	Golden gregory	0.344828
 Biochemistry	spotsided livebearer	0.333333
 Biochemistry	silver smelt	0.333333
 Biochemistry	sharp-nosed mullets	0.333333
-Biochemistry	million fish	0.333333
+Biochemistry	rainbowfish	0.333333
 Biochemistry	c-O soles	0.333333
 Biochemistry	Villa harveyi	0.333333
 Biochemistry	V. harveyi	0.333333
@@ -3523,7 +3522,6 @@ Biochemistry	B. pardalinus	0.006250
 Biochemistry	Anoplodera pullata	0.006250
 Genomics	Homo sapiens	2852.666667
 Genomics	E. coli	437.000000
-Genomics	codd	295.090909
 Genomics	Arrowhead	283.000000
 Genomics	S. cerevisiae	204.000000
 Genomics	texas cichlids	146.000000
@@ -3843,7 +3841,7 @@ Genomics	Aspergillus oryzae	5.090909
 Genomics	Gray mouse lemur	5.076923
 Genomics	striper bass	5.013514
 Genomics	small-eared galago	5.000000
-Genomics	million fish	5.000000
+Genomics	rainbowfish	5.000000
 Genomics	malayan	5.000000
 Genomics	domestic dogs	5.000000
 Genomics	White-tufted-ear marmoset	5.000000
@@ -5844,7 +5842,7 @@ Genomics	Delphacodes simulans	0.833333
 Genomics	Dasylagon simulans	0.833333
 Genomics	Daldinia simulans	0.833333
 Genomics	D. simulans	0.833333
-Genomics	Black kings	0.813131
+Genomics	Black kings	0.822222
 Genomics	swallowtail pompano	0.800000
 Genomics	Trachinotus anak	0.800000
 Genomics	Largespot pampanos	0.800000
@@ -6692,7 +6690,7 @@ Genomics	Aleiodes parasiticus	0.250000
 Genomics	Agathymus stephensi	0.250000
 Genomics	Agaricus parasiticus	0.250000
 Genomics	A. planirostris	0.250000
-Genomics	Rockcod	0.233766
+Genomics	Rockcod	0.242857
 Genomics	Tubaria thermophila	0.222222
 Genomics	Trichorhina thermophila	0.222222
 Genomics	Thielavia thermophila	0.222222
@@ -7285,7 +7283,11 @@ Genomics	D. americana	0.103448
 Genomics	northern Red-legged Frog	0.100000
 Genomics	gobys	0.100000
 Genomics	fragile spoonclam	0.100000
+Genomics	cod	0.100000
+Genomics	bearded cod	0.100000
+Genomics	arctic cods	0.100000
 Genomics	Trigonophymus distinguendus	0.100000
+Genomics	Toothed cod	0.100000
 Genomics	Synopeas tuberosum	0.100000
 Genomics	Symphytum tuberosum	0.100000
 Genomics	Stizolobium tuberosum	0.100000
@@ -7306,6 +7308,7 @@ Genomics	Pulsellum fragile	0.100000
 Genomics	Pterygophyllum fragile	0.100000
 Genomics	Protosporangium fragile	0.100000
 Genomics	Ponerites umbra	0.100000
+Genomics	Pondes	0.100000
 Genomics	Periboeum fragile	0.100000
 Genomics	P. umbra	0.100000
 Genomics	P. fragile	0.100000
@@ -7322,6 +7325,8 @@ Genomics	Carex porteri	0.100000
 Genomics	Canthidium darwini	0.100000
 Genomics	C. porteri	0.100000
 Genomics	C. darwini	0.100000
+Genomics	Alaska cod	0.100000
+Genomics	A. glacialis	0.100000
 Genomics	Lyngbya major	0.098039
 Genomics	Lotus major	0.098039
 Genomics	Lortia major	0.098039
@@ -7402,11 +7407,7 @@ Genomics	mountain Wren-Babblers	0.090909
 Genomics	marbled eel	0.090909
 Genomics	large-toothed Conger	0.090909
 Genomics	conger eels	0.090909
-Genomics	cod	0.090909
-Genomics	bearded cod	0.090909
-Genomics	arctic cods	0.090909
 Genomics	Yellow eel	0.090909
-Genomics	Toothed cod	0.090909
 Genomics	Synthocus paradoxus	0.090909
 Genomics	Suberites paradoxus	0.090909
 Genomics	Stout argentine	0.090909
@@ -7419,7 +7420,6 @@ Genomics	Rosy blenny	0.090909
 Genomics	Rogiera cordata	0.090909
 Genomics	Restiaria cordata	0.090909
 Genomics	R. cordata	0.090909
-Genomics	Pondes	0.090909
 Genomics	Pallass Sandgrouses	0.090909
 Genomics	Palaquium confertum	0.090909
 Genomics	P. fairmairei	0.090909
@@ -7467,10 +7467,8 @@ Genomics	Azospira oryzae	0.090909
 Genomics	Atherigona oryzae	0.090909
 Genomics	Apanteles oryzae	0.090909
 Genomics	Anabaena oryzae	0.090909
-Genomics	Alaska cod	0.090909
 Genomics	Acrocylindrium oryzae	0.090909
 Genomics	A. oryzae	0.090909
-Genomics	A. glacialis	0.090909
 Genomics	suwannee Bass	0.083333
 Genomics	red groper	0.083333
 Genomics	puffer	0.083333
@@ -9761,7 +9759,6 @@ Molecular	E. coli	182.000000
 Molecular	Arrowhead	136.000000
 Molecular	D. americana	92.000000
 Molecular	horses	74.000000
-Molecular	codd	71.181818
 Molecular	S. cerevisiae	71.000000
 Molecular	Common sole	53.736842
 Molecular	Butter breams	53.000000
@@ -9888,7 +9885,7 @@ Molecular	Dipturus trachyderma	3.500000
 Molecular	Dasyatis garouaensis	3.500000
 Molecular	C. familiaris	3.400000
 Molecular	amber	3.103448
-Molecular	million fish	3.000000
+Molecular	rainbowfish	3.000000
 Molecular	large-spotted dogfish	3.000000
 Molecular	Yersinia pestis	3.000000
 Molecular	Vitis vinifera	3.000000
@@ -10028,6 +10025,7 @@ Molecular	T. brucei	2.000000
 Molecular	Arabis thaliana	2.000000
 Molecular	A. thaliana	2.000000
 Molecular	branchys	1.833333
+Molecular	norwegian silver herrings	1.820000
 Molecular	soles	1.736842
 Molecular	oriental-sole	1.736842
 Molecular	longsnout flounders	1.736842
@@ -10065,7 +10063,6 @@ Molecular	False pompano	1.333333
 Molecular	Black batfishs	1.333333
 Molecular	B. suis	1.333333
 Molecular	A. hydrophila	1.333333
-Molecular	norwegian silver herrings	1.320000
 Molecular	Mycobacterium marinum	1.250000
 Molecular	Archaeoglobus fulgidus	1.250000
 Molecular	Norwest snapper	1.236111
@@ -10674,6 +10671,7 @@ Molecular	Molpadia musculus	1.000000
 Molecular	Meibomeus musculus	1.000000
 Molecular	Megachile musculus	1.000000
 Molecular	M. musculus	1.000000
+Molecular	Black kings	0.933333
 Molecular	Rubus norvegicus	0.800000
 Molecular	Rhombus norvegicus	0.800000
 Molecular	Rhizopus norvegicus	0.800000
@@ -10689,6 +10687,14 @@ Molecular	Cuban chimaeras	0.666667
 Molecular	Chimaeras	0.666667
 Molecular	R. sapagaya	0.642857
 Molecular	Gryllus bimaculatus	0.642857
+Molecular	cod	0.600000
+Molecular	bearded cod	0.600000
+Molecular	arctic cods	0.600000
+Molecular	Toothed cod	0.600000
+Molecular	Rockcod	0.600000
+Molecular	Pondes	0.600000
+Molecular	Alaska cod	0.600000
+Molecular	A. glacialis	0.600000
 Molecular	sevan trouts	0.584906
 Molecular	salmon	0.584906
 Molecular	mexican Golden Trout	0.584906
@@ -10723,7 +10729,6 @@ Molecular	Clarks trouts	0.584906
 Molecular	Bangamarymother	0.584906
 Molecular	Aral salmons	0.584906
 Molecular	madagascar meagre	0.562500
-Molecular	Black kings	0.515152
 Molecular	white scales	0.500000
 Molecular	sandgapers	0.500000
 Molecular	sand lamprey	0.500000
@@ -10990,14 +10995,6 @@ Molecular	Tetraopes thermophilus	0.200000
 Molecular	Talaromyces thermophilus	0.200000
 Molecular	Largespot pampanos	0.200000
 Molecular	perch	0.196429
-Molecular	cod	0.181818
-Molecular	bearded cod	0.181818
-Molecular	arctic cods	0.181818
-Molecular	Toothed cod	0.181818
-Molecular	Rockcod	0.181818
-Molecular	Pondes	0.181818
-Molecular	Alaska cod	0.181818
-Molecular	A. glacialis	0.181818
 Molecular	seargent fishs	0.166667
 Molecular	Systolomorphella lyra	0.166667
 Molecular	Spaniocentra lyra	0.166667
@@ -12049,7 +12046,6 @@ Molecular	Ancistrus hoplogenys	0.008333
 Molecular	Ageneiosus militaris	0.008333
 Molecular	African catfishs	0.008333
 Ecology	Homo sapiens	792.000000
-Ecology	codd	481.681818
 Ecology	Grass pickerel	131.000000
 Ecology	goldfishs	94.222222
 Ecology	Ship Sturgeon	72.000000
@@ -12087,7 +12083,7 @@ Ecology	Boraras maculatus	25.000000
 Ecology	pacific breams	24.500000
 Ecology	pumpkinseed sunfishs	23.625000
 Ecology	Butter breams	22.000000
-Ecology	million fish	21.666667
+Ecology	rainbowfish	21.666667
 Ecology	large-spotted dogfish	21.222222
 Ecology	D. americana	21.062500
 Ecology	Panthera pardus	21.000000
@@ -12186,6 +12182,7 @@ Ecology	Domestic Cat	9.000000
 Ecology	Cheetahs	9.000000
 Ecology	Blue panchax	9.000000
 Ecology	Antarctic krill	9.000000
+Ecology	norwegian silver herrings	8.963333
 Ecology	english perchs	8.857143
 Ecology	spiny puffers	8.700000
 Ecology	T. aestivum	8.500000
@@ -12212,7 +12209,6 @@ Ecology	Common raccoon	8.000000
 Ecology	C. albicans	8.000000
 Ecology	Bald Eagle	8.000000
 Ecology	African buffalos	8.000000
-Ecology	norwegian silver herrings	7.963333
 Ecology	long-finned albacore	7.791209
 Ecology	Barramundi perch	7.740000
 Ecology	bigeye Tunas	7.714286
@@ -12262,7 +12258,7 @@ Ecology	Whalesharks	6.500000
 Ecology	Trifolium pratense	6.500000
 Ecology	Serratia marcescens	6.500000
 Ecology	R. tarandus	6.500000
-Ecology	Pacific ocean perchs	6.388367
+Ecology	Pacific ocean perchs	6.411094
 Ecology	Long-tail perch	6.333333
 Ecology	norway rat	6.200000
 Ecology	Bonefishs	6.166667
@@ -12309,6 +12305,7 @@ Ecology	Borrelia burgdorferi	6.000000
 Ecology	Betula pendula	6.000000
 Ecology	B. bubo	6.000000
 Ecology	amber	5.827586
+Ecology	Black kings	5.722222
 Ecology	natterers bat	5.500000
 Ecology	Fry-drys	5.496541
 Ecology	Picton herrings	5.496541
@@ -12428,6 +12425,7 @@ Ecology	european sturgeons	4.333333
 Ecology	bicolor damselfish	4.333333
 Ecology	Bleaks	4.222222
 Ecology	Northern sennets	4.181818
+Ecology	arctic cods	4.166667
 Ecology	Sebas short-tailed bats	4.166667
 Ecology	Prochlorococcus marinus	4.071429
 Ecology	brown big-eared bats	4.066667
@@ -12590,6 +12588,9 @@ Ecology	Macruronus novaezelandiae	3.666667
 Ecology	queen triggerfish	3.583333
 Ecology	Moon wrasse	3.583333
 Ecology	S. ocellatus	3.562500
+Ecology	bearded cod	3.522727
+Ecology	Pondes	3.500000
+Ecology	Alaska cod	3.500000
 Ecology	liberty mollly	3.500000
 Ecology	green-winged Teal	3.500000
 Ecology	Q. ilex	3.500000
@@ -12599,7 +12600,6 @@ Ecology	B. bassiana	3.500000
 Ecology	Clarks trouts	3.482480
 Ecology	North Atlantic flounder	3.447849
 Ecology	needlenoses	3.438095
-Ecology	Black kings	3.404040
 Ecology	Niloticas	3.375000
 Ecology	southern red snapper	3.347826
 Ecology	Snappers	3.347826
@@ -12613,6 +12613,7 @@ Ecology	Bullethead parrots	3.333333
 Ecology	Diploria strigosa	3.285714
 Ecology	Pinus pinea	3.250000
 Ecology	Montastraea cavernosa	3.250000
+Ecology	A. glacialis	3.166667
 Ecology	R. sapagaya	3.142857
 Ecology	Gryllus bimaculatus	3.142857
 Ecology	Mountain Yellow-legged Frogs	3.125000
@@ -12836,6 +12837,7 @@ Ecology	T. adspersus	2.857143
 Ecology	Deadys	2.845216
 Ecology	Smallmouth bass	2.833333
 Ecology	Blue marlin	2.833333
+Ecology	Rockcod	2.768293
 Ecology	Salmon trouts	2.765079
 Ecology	Santer seabream	2.750000
 Ecology	european bullheads	2.743590
@@ -12850,16 +12852,19 @@ Ecology	Australian herrings	2.630000
 Ecology	smelts	2.625000
 Ecology	brismak	2.576923
 Ecology	Wahoo	2.566434
+Ecology	Flag rockfishs	2.563268
 Ecology	steindachners ribbonfishs	2.562500
 Ecology	african mouthbrooder	2.555556
 Ecology	E. morio	2.554007
 Ecology	Shoemakers	2.545535
-Ecology	Flag rockfishs	2.540541
 Ecology	gemfishs	2.515152
+Ecology	cod	2.500000
+Ecology	Toothed cod	2.500000
 Ecology	sleepers	2.500000
 Ecology	largescaled spinycheek sleepers	2.500000
 Ecology	lamprey	2.500000
 Ecology	garden bumblebee	2.500000
+Ecology	charcoal moras	2.500000
 Ecology	Toxostoma rufum	2.500000
 Ecology	S. iseri	2.500000
 Ecology	Pinus cembra	2.500000
@@ -12871,10 +12876,10 @@ Ecology	Bacillus cereus	2.500000
 Ecology	Long-nose grey shark	2.454545
 Ecology	Hammerheads	2.454545
 Ecology	flukes	2.447849
-Ecology	Herring hakes	2.411765
 Ecology	Mottled sculpins	2.410256
 Ecology	Pacific brook char	2.365079
 Ecology	Rainbow crevalles	2.357889
+Ecology	Herring hakes	2.352941
 Ecology	Barbels	2.342857
 Ecology	Six-barred wrasse	2.333333
 Ecology	lesser mouse-eared bat	2.333333
@@ -12907,12 +12912,11 @@ Ecology	Pompanos	2.076923
 Ecology	Gallwasps	2.071429
 Ecology	Double-crested Cormorant	2.066667
 Ecology	salmon bass	2.064516
+Ecology	Orange rockfish	2.063268
 Ecology	Carcharhinus limbatus	2.058824
 Ecology	Madrepora oculata	2.043478
 Ecology	Black-tailed jack rabbit	2.043478
 Ecology	Drosophila simulans	2.041667
-Ecology	rock cod	2.040541
-Ecology	Orange rockfish	2.040541
 Ecology	koala	2.034483
 Ecology	Ceratitis capitata	2.017241
 Ecology	North Pacific Right Whale	2.016949
@@ -13565,7 +13569,6 @@ Ecology	Perch	1.857143
 Ecology	Freshwater perch	1.857143
 Ecology	Estuarine perch	1.857143
 Ecology	makiawa	1.853684
-Ecology	arctic cods	1.848485
 Ecology	Locusta migratoria	1.833333
 Ecology	Centaurea jacea	1.833333
 Ecology	plaintail lionfish	1.833333
@@ -13602,7 +13605,6 @@ Ecology	Common white sucker	1.703704
 Ecology	R. bisignata	1.700000
 Ecology	Monochamus alternatus	1.700000
 Ecology	giant Devil Rays	1.700000
-Ecology	Merluccius gayi gayi	1.678431
 Ecology	surgeonfishs	1.666667
 Ecology	guinean ladyfishs	1.666667
 Ecology	Whiskery sharks	1.666667
@@ -13615,6 +13617,7 @@ Ecology	Brittlestars	1.666667
 Ecology	Blue snakeweed	1.666667
 Ecology	Black marlin	1.666667
 Ecology	Blur tang	1.642857
+Ecology	Merluccius gayi gayi	1.619608
 Ecology	Dipoena melanogaster	1.600000
 Ecology	Clupea pallasii	1.576923
 Ecology	spotted ribbonfishs	1.562500
@@ -13729,10 +13732,7 @@ Ecology	Anoplophora glabripennis	1.200000
 Ecology	A. thaliana	1.200000
 Ecology	Solefish	1.197849
 Ecology	Mudfishs	1.184524
-Ecology	bearded cod	1.181818
-Ecology	Alaska cod	1.181818
 Ecology	Saperda populnea	1.181818
-Ecology	Pondes	1.181818
 Ecology	bridled Gobys	1.166667
 Ecology	Wide sawfish	1.166667
 Ecology	Grey dog-sharks	1.166667
@@ -13774,6 +13774,9 @@ Ecology	yellow goatfishs	1.066667
 Ecology	C. agassizii	1.066667
 Ecology	false halibuts	1.064516
 Ecology	captainfish	1.064516
+Ecology	rock cods	1.063268
+Ecology	quillback rockfishs	1.063268
+Ecology	Brownies	1.063268
 Ecology	Puffinus tenuirostris	1.062500
 Ecology	Annona dioica	1.058824
 Ecology	nile tilapias	1.055556
@@ -13785,11 +13788,8 @@ Ecology	Yellow eel	1.045455
 Ecology	Crocodylus johnstoni	1.041667
 Ecology	Diffuse knapweed	1.041667
 Ecology	Atipas	1.041667
-Ecology	rock cods	1.040541
-Ecology	quillback rockfishs	1.040541
 Ecology	rockfish	1.040541
 Ecology	cow rockfishs	1.040541
-Ecology	Brownies	1.040541
 Ecology	Cystoseira compressa	1.040000
 Ecology	Creolefishs	1.040000
 Ecology	C. striata	1.040000
@@ -13797,6 +13797,7 @@ Ecology	Macronectes giganteus	1.037037
 Ecology	River otter	1.034483
 Ecology	Albizia procera	1.033333
 Ecology	Bastard halibuts	1.030303
+Ecology	brown coral cods	1.022727
 Ecology	Spiky dorys	1.020833
 Ecology	wedge-tailed Shearwater	1.018519
 Ecology	Pinus radiata	1.018182
@@ -14190,7 +14191,6 @@ Ecology	chihuahuan Ravens	1.000000
 Ecology	chichak, Common House Gecko	1.000000
 Ecology	chia	1.000000
 Ecology	chattahoochee Slimy Salamander	1.000000
-Ecology	charcoal moras	1.000000
 Ecology	cascades Frog	1.000000
 Ecology	caribbean tonguefishs	1.000000
 Ecology	caribbean Monk Seals	1.000000
@@ -14199,7 +14199,6 @@ Ecology	bull trout	1.000000
 Ecology	bucktooth parrotfishs	1.000000
 Ecology	brush Rabbit	1.000000
 Ecology	brown ticks	1.000000
-Ecology	brown coral cods	1.000000
 Ecology	brown Rollrims	1.000000
 Ecology	brown Quail	1.000000
 Ecology	brown Hyena	1.000000
@@ -17514,7 +17513,6 @@ Ecology	Roughscaled flounders	0.857143
 Ecology	Pseudorhombus triocellatus	0.857143
 Ecology	P. megalops	0.857143
 Ecology	P. javanicus	0.857143
-Ecology	A. glacialis	0.848485
 Ecology	white bass	0.833333
 Ecology	suwannee Bass	0.833333
 Ecology	ozark bass	0.833333
@@ -17619,6 +17617,7 @@ Ecology	C. riparius	0.576923
 Ecology	snakefishs	0.571429
 Ecology	Shiraou icefishs	0.571429
 Ecology	Icefish	0.571429
+Ecology	Black bass	0.563268
 Ecology	drum	0.562500
 Ecology	Totoaba macdonaldi	0.562500
 Ecology	Sand drums	0.562500
@@ -17638,7 +17637,6 @@ Ecology	Conger	0.545455
 Ecology	Lobularia maritima	0.545455
 Ecology	barb�s	0.541667
 Ecology	African catfishs	0.541667
-Ecology	Black bass	0.540541
 Ecology	Clubhorned Grasshoppers	0.540000
 Ecology	toothless anchovys	0.537514
 Ecology	new Zealand flounder	0.533333
@@ -18068,13 +18066,10 @@ Ecology	cisco	0.472222
 Ecology	Nurse sharks	0.472222
 Ecology	Lake ciscos	0.472222
 Ecology	Long-tailed snappers	0.465473
-Ecology	Rockcod	0.450111
 Ecology	rough leatherjacket	0.450000
 Ecology	picasso fish	0.444444
 Ecology	Greenback scad	0.444444
 Ecology	lyretail grouper	0.434959
-Ecology	hake	0.411765
-Ecology	Brazilian codlings	0.411765
 Ecology	great lake trouts	0.400000
 Ecology	bidyan grunters	0.400000
 Ecology	Suphalomitus harmandi	0.400000
@@ -18124,6 +18119,9 @@ Ecology	Astyanax stenohalinus	0.357143
 Ecology	Astyanax alburnus	0.357143
 Ecology	Astyanax abramis	0.357143
 Ecology	A. taeniatus	0.357143
+Ecology	white-spotted rockcods	0.356061
+Ecology	hake	0.352941
+Ecology	Brazilian codlings	0.352941
 Ecology	Bluebait	0.351852
 Ecology	barbers	0.351190
 Ecology	violet skate	0.350000
@@ -18178,7 +18176,6 @@ Ecology	Oncorhynchus aguabonita	0.339623
 Ecology	Jamaican weakfish	0.339623
 Ecology	Iwame trout	0.339623
 Ecology	Aral salmons	0.339623
-Ecology	white-spotted rockcods	0.333333
 Ecology	weathervane scallop	0.333333
 Ecology	two-tone wrasse	0.333333
 Ecology	sweethead frys	0.333333
@@ -18402,8 +18399,8 @@ Ecology	A. strigosus	0.333333
 Ecology	A. lemurinus	0.333333
 Ecology	A. hudsonica	0.333333
 Ecology	A. breviligulata	0.333333
+Ecology	red-barred rockcod	0.331020
 Ecology	schuberts barb	0.309524
-Ecology	red-barred rockcod	0.308293
 Ecology	hapuku wreckfish	0.308293
 Ecology	gobys	0.300000
 Ecology	Longtail goby	0.300000
@@ -18686,6 +18683,7 @@ Ecology	Acarphaea artemisiifolia	0.250000
 Ecology	Acanthotriaena crypta	0.250000
 Ecology	A. grandifolium	0.250000
 Ecology	A. crypta	0.250000
+Ecology	Beardies	0.244949
 Ecology	slendernosed pipefishs	0.230769
 Ecology	seaweed pipefish	0.230769
 Ecology	messmate pipefish	0.230769
@@ -18737,7 +18735,6 @@ Ecology	European ling	0.222222
 Ecology	Corocoro grunt	0.222222
 Ecology	Chub	0.222222
 Ecology	Bigeye dogfishs	0.222222
-Ecology	Beardies	0.222222
 Ecology	Atlantic porkfishs	0.222222
 Ecology	Ascandra cervicornis	0.222222
 Ecology	Apteranabropsis cervicornis	0.222222
@@ -18927,9 +18924,7 @@ Ecology	pharaoh flyingfishs	0.181818
 Ecology	pelican barracuda	0.181818
 Ecology	northern sennets	0.181818
 Ecology	european barracuda	0.181818
-Ecology	cod	0.181818
 Ecology	baja California killifish	0.181818
-Ecology	Toothed cod	0.181818
 Ecology	Stillingia populnea	0.181818
 Ecology	Southern sennet	0.181818
 Ecology	Smilax populnea	0.181818
@@ -20583,6 +20578,22 @@ Ecology	Anchoa curta	0.063830
 Ecology	A. tricolor	0.063830
 Ecology	A. perfasciata	0.063830
 Ecology	A. marinii	0.063830
+Ecology	vermilion rockfishs	0.063268
+Ecology	stripetail rockfishs	0.063268
+Ecology	slender rockfish	0.063268
+Ecology	greenstriped rockfishs	0.063268
+Ecology	Yellowmouth rockfish	0.063268
+Ecology	Slender rockfishs	0.063268
+Ecology	Shortspine rockfish	0.063268
+Ecology	Sebastes nebulosus	0.063268
+Ecology	Sebastes emphaeus	0.063268
+Ecology	Sebastes aurora	0.063268
+Ecology	Sebastes aleutianus	0.063268
+Ecology	S. mystinus	0.063268
+Ecology	S. flavidus	0.063268
+Ecology	Rosethorn rockfishs	0.063268
+Ecology	Buoy keg	0.063268
+Ecology	Black-banded rockfishs	0.063268
 Ecology	stingrays	0.062500
 Ecology	short-tail stingrays	0.062500
 Ecology	poultry ticks	0.062500
@@ -21746,42 +21757,28 @@ Ecology	Acacia caudata	0.041667
 Ecology	A. griffithii	0.041667
 Ecology	A. caudata	0.041667
 Ecology	Pterophylla intermedia	0.041062
-Ecology	vermilion rockfishs	0.040541
 Ecology	treefish	0.040541
 Ecology	swordspine rockfish	0.040541
-Ecology	stripetail rockfishs	0.040541
-Ecology	slender rockfish	0.040541
 Ecology	semaphore rockfish	0.040541
 Ecology	rosy rockfishs	0.040541
 Ecology	red scorpionfishs	0.040541
 Ecology	mexican rockfishs	0.040541
-Ecology	greenstriped rockfishs	0.040541
 Ecology	gopher rockfish	0.040541
 Ecology	freckled rockfish	0.040541
 Ecology	bluemouth rockfishs	0.040541
 Ecology	bank rockfishs	0.040541
-Ecology	Yellowmouth rockfish	0.040541
 Ecology	Squarespot rockfishs	0.040541
 Ecology	Southern eagle fishs	0.040541
-Ecology	Slender rockfishs	0.040541
-Ecology	Shortspine rockfish	0.040541
-Ecology	Sebastes nebulosus	0.040541
 Ecology	Sebastes gilli	0.040541
-Ecology	Sebastes emphaeus	0.040541
-Ecology	Sebastes aurora	0.040541
-Ecology	Sebastes aleutianus	0.040541
 Ecology	S. serranoides	0.040541
 Ecology	S. semicinctus	0.040541
 Ecology	S. rufinanus	0.040541
 Ecology	S. rosenblatti	0.040541
 Ecology	S. ovalis	0.040541
-Ecology	S. mystinus	0.040541
 Ecology	S. melanostomus	0.040541
-Ecology	S. flavidus	0.040541
 Ecology	S. eos	0.040541
 Ecology	S. constellatus	0.040541
 Ecology	S. chrysomelas	0.040541
-Ecology	Rosethorn rockfishs	0.040541
 Ecology	Pinkrose rockfishs	0.040541
 Ecology	Kelp rockfishs	0.040541
 Ecology	Honeycomb rockfish	0.040541
@@ -21791,8 +21788,6 @@ Ecology	Coral cod	0.040541
 Ecology	Chilipepper	0.040541
 Ecology	Chameleon rockfish	0.040541
 Ecology	Calico rockfish	0.040541
-Ecology	Buoy keg	0.040541
-Ecology	Black-banded rockfishs	0.040541
 Ecology	Acanthoclinus littoreus	0.040541
 Ecology	spotted seabass	0.040000
 Ecology	sand bass	0.040000
@@ -21901,6 +21896,7 @@ Ecology	Achrysopophagus clavatus	0.040000
 Ecology	Acerophagus clavatus	0.040000
 Ecology	Acalles clavatus	0.040000
 Ecology	A. cephalotes	0.040000
+Ecology	Harlequin rockfishs	0.039121
 Ecology	seaside Locust	0.038462
 Ecology	chestnut mussels	0.038462
 Ecology	Werners smooth-heads	0.038462
@@ -23472,6 +23468,11 @@ Ecology	Campoplex neglectus	0.023256
 Ecology	Calamus neglectus	0.023256
 Ecology	C. neglectus	0.023256
 Ecology	Blatta acervora	0.023256
+Ecology	shortspine channel rockfish	0.022727
+Ecology	rock cod	0.022727
+Ecology	Wavy-lined rock cod	0.022727
+Ecology	Trout cods	0.022727
+Ecology	Spotty cods	0.022727
 Ecology	P. nigella	0.022727
 Ecology	Australomysis acuta	0.022727
 Ecology	Astomella acuta	0.022727
@@ -24620,7 +24621,6 @@ Ecology	Malikia spinosa	0.016393
 Ecology	Majanga spinosa	0.016393
 Ecology	Macaranga spinosa	0.016393
 Ecology	M. spinosa	0.016393
-Ecology	Harlequin rockfishs	0.016393
 Ecology	Cymodoce aspera	0.016393
 Ecology	Cymakra aspera	0.016393
 Ecology	Curimata aspera	0.016393

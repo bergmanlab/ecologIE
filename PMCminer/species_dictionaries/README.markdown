@@ -4,7 +4,7 @@ Building the species dictionaries
 
 The species dictionary used for the analysis is a combination of the [Catalogue of Life](http://www.catalogueoflife.org) dictionaries for 2009 and 2010.
 Various stopwords have been filtered out.
-######The original distionaries are hosted here:
+######The original dictionaries are hosted here:
 - 2009 : path
 - 2010 : path
 
