@@ -22,11 +22,11 @@ This directory contains:
     - SummaryStats.tsv - a tab separated value text file of subject category summary statistics.
 
 
-######Additional files that are not included here (many files/big files)
-- Archived PLoS One article files
-- Corpora of article bodies for each subject
-- Species dictionary
-- Linnaeus output files
+######Additional files
+- [Species dictionary](http://bergman.smith.man.ac.uk/data/ecologie/full_col_final.tsv)
+- [Archive of PLoS One PMC XML files](http://bergman.smith.man.ac.uk/data/ecologie/raw.tgz)
+- [Full text of article bodies](http://bergman.smith.man.ac.uk/data/ecologie/pure.tgz)
+- [Linnaeus output files](http://bergman.smith.man.ac.uk/data/ecologie/tags.tgz)
 
 
 ######Contact 
