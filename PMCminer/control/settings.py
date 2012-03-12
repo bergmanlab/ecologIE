@@ -29,10 +29,10 @@ DOI_LISTS = {
     }
 
 #Match DOIs with articles in ANALYSIS_DIR and copy to DATA_DIR/raw_articles ?
-EXTRACT_RAW_ARTICLES_BY_DOI = False
+EXTRACT_RAW_ARTICLES_BY_DOI = True 
 
 #copy processed article bodies to DATA_DIR/pure ?
-PURIFY_ARTICLE_SET = False
+PURIFY_ARTICLE_SET = True
 
 TOKENIZER = NLTKload('tokenizers/punkt/english.pickle')
 
@@ -75,14 +75,14 @@ LINNAEUS_CONF = (
 ANALYSE_INTERACTIONS = True
 MULTISPP_INTERACTIONS = "multispecies_interactions.tsv"
 ALL_INTERACTIONS = "all_interactions.tsv"
-MULTISPP_INTERACTIONS_TABLE = "multispp_interactions_table.tsv"
+MULTISPP_INTERACTIONS_TABLE = "multispecies_interactions_table.tsv"
 
 ANALYSE_LINNAEUS_FILES = True
-SPP_PER_ARTICLE_FILE = "spp_per_article.tsv"
+SPP_PER_ARTICLE_FILE = "species_per_article.tsv"
 INTERACTIONS_PER_ARTICLE_FILE = "interactions_per_article.tsv"
-SPP_NUMBERS_FILE = "spp_numbers.tsv"
-UNAMBIG_SPP_NUMBERS_FILE = "spp_numbers_unambig.tsv"
-AMBIG_SPP_NUMBERS_FILE = "spp_numbers_ambig.tsv"
+SPP_NUMBERS_FILE = "species_numbers.tsv"
+UNAMBIG_SPP_NUMBERS_FILE = "species_numbers_unambig.tsv"
+AMBIG_SPP_NUMBERS_FILE = "species_numbers_ambig.tsv"
 
 SUMMARY_STATS = True
 SUMMARY_SUBJECT_ORDER = ("Ecology", "Genomics", "Molecular", "Biochemistry")

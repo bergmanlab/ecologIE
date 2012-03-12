@@ -3,15 +3,15 @@
 V.0.1 (22/Feb/2012)
 ------------------
 
-###David A. Springate and Casey Bergman, Faculty of Life Sciences, University of Manchester
+###David A. Springate ... and Casey Bergman, Faculty of Life Sciences, University of Manchester
 
 Includes a Python wrapper for the [Linnaeus entity recognition tool](http://linnaeus.sourceforge.net/).
 
-The pmcminer.py file is the main executable to replicate the analyses in **An exploration of mining species interaction data from the ecology literature**, Springate and Bergman 2012 (forthcoming).
+The pmcminer.py file is the main executable to replicate the analyses in **An exploration of mining species interaction data from the ecology literature**, _Springate and Bergman 2012 (forthcoming)_.
 
 #####To do this you need...
-- A directory containing the PLoSONE XML archive
-- A set of DOIs from the PLoS API
+- A directory containing the PLoS ONE XML archive
+- A set of DOIs (e.g. from the PLoS API)
 - A working copy of Linnaeus
 - Species names dictionary
 - Ecological Interaction terms dictionary 
@@ -31,8 +31,10 @@ All directory and path logic is in settings.py in the control folder.
 
 For questions, suggestions or bug reports, please contact David Springate:
 david dot springate at postgrad dot manchester dot ac dot uk
+casey dot bergman at manchester dot ac dot uk
+
 ####To do:
 * Upload script for downloading DOIs from PLoS API
-* Upload species and ecological interactions databases
 * Upload R analysis scripts for Springate and Bergman 2012 paper.
 * Fix the horrible hack that allows the diversity function to work.
+* Fix bug in the parser to only output dois (Occasionally outputs PMIDs at the moment)
